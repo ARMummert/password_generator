@@ -3,7 +3,7 @@
 ![Screenshot](/images/ran_num_gen.png)
 
 Installation:
-install python 3.12.4 or later
+`install python 3.12.4 or later`
 
 Run:
-python py_rand_num_gen.py
+`python py_rand_num_gen.py`
