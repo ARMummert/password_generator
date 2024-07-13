@@ -1,5 +1,3 @@
-# password_generator
-
 # A random password generator built with Python
 
 ![Screenshot](/images/ran_num_gen.png)
